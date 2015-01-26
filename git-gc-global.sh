@@ -12,7 +12,7 @@ echorun() {
   $*
 }
 
-for SCM in $(find -L $CURRENT -name .git)
+for SCM in $(find $CURRENT -name .git)
 do
   DIRECTORY=$(dirname $SCM)
   cd $DIRECTORY
