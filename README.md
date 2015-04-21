@@ -1,21 +1,14 @@
 # Scripts
-> @todo
+> Collection of useful shell and Powershell scripts (Windows-"hardened")
 
 [![MIT](http://img.shields.io/badge/license-MIT-green.svg)](http://opensource.org/licenses/MIT)
-
-[Stable Releases](https://github.com/wp-cloud/site-info/releases) | [Current Development (`develop` branch)](https://github.com/wp-cloud/site-info)
 
 ## Features
 - @todo
 
-## Changelog
-* 1.0.0 (2015-mm-dd)
-  * initial release
-  * Fork of [Domain Details](https://addons.mozilla.org/firefox/addon/domain-details/). Developed by Ian Willis & Nathan LaPierre
-
 ## License: _[MIT](LICENSE)_
 
-The MIT License (MIT)
+	The MIT License (MIT)
 
 	Copyright (c) 2014-2015 Christian Foellmann
 
